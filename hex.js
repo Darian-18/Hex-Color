@@ -16,3 +16,4 @@ function changeHex(){
     value.textContent = hex;
     body.style.backgroundColor = hex;
 }
+changeHex()
