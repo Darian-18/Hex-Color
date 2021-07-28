@@ -36,3 +36,7 @@ button{
     background-image: linear-gradient(to bottom, #3cb0fd, #3cfda3);
     text-decoration: none;
   }
+
+a {
+    margin-top: 10px;
+}
